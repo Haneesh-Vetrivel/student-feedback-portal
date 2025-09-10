@@ -53,11 +53,6 @@ GitHub Actions runs on every push/PR to `main`:
 
 > If `RENDER_DEPLOY_HOOK_URL` is not set, the workflow **skips deploy** but still runs install/test/build.
 
-## Screenshots to include in your report
-- GitHub Actions run showing the three jobs: **lint_test**, **build**, **deploy**.
-- Render dashboard showing a successful deployment (event list).
-- The running app URL (landing page, Admin page).
-
 ## Admin page
 Visit `/admin` to see collected feedback (in-memory, reset on restart).
 
