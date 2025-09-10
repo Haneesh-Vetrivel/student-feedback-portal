@@ -77,5 +77,3 @@ Visit `/admin` to see collected feedback (in-memory, reset on restart).
 └─ report/Report_Template.md  (fill and export to PDF)
 ```
 
-## License
-MIT (for coursework use)
